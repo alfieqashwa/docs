@@ -15,8 +15,9 @@ export default defineConfig({
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "About", slug: "guides/about" },
-            { label: "Features", slug: "guides/features" },
-            { label: "Start", slug: "guides/start" },
+            { label: "Authorization", slug: "guides/authorization" },
+            { label: "Pages", slug: "guides/pages" },
+            { label: "Devices", slug: "guides/devices" },
           ],
         },
         // {
