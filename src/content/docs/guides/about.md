@@ -3,15 +3,16 @@ title: About
 description: What is Qozy Cue.
 ---
 
-[Qozy Cue](https://qozycue.com/) adalah aplikasi berbasis online untuk membantu para pengusaha billiard memantau aktifitas bisnisnya secara real-time -- dimanapun mereka berada.
+[Qozy Cue](https://qozycue.com/) adalah aplikasi berbasis online khusus untuk membantu para pengusaha billiard memantau aktifitas bisnisnya secara **real-time** -- dimanapun mereka berada.
 
-Tujuan dibuat aplikasi ini untuk memberikan solusi alternatif yang tidak dimiliki aplikasi berbasis offline.
+Tujuan pengembangan aplikasi ini untuk memberikan solusi alternatif yang hanya dapat dipenuhi oleh aplikasi teknologi berbasis online.
 
-## Visi & Misi
+## Tujuan
 
-Baik aplikasi berbasis offline maupun online masing-masing memiliki kelebihan dan keterbatasannya. [Qozy Cue](https://qozycue.com/) memiliki visi dan misi sebagai berikut:
+Beberapa tujuan utama [Qozy Cue](https://qozycue.com/):
 
-- Memanfaatkan teknologi internet agar para pemilik dapat memantau aktifitas bisnis mereka secara real-time dimanapun mereka berada.
+- Pemanfaatan teknologi internet memungkinkan para pelaku usaha dapat memantau aktifitas bisnis mereka secara _real-time_, kapanpun & dimanapun mereka berada.
+- Para pelaku usaha tidak harus melakukan _sidak_ (berkunjung ke lokasi secara fisik), seperti untuk melihat laporan keuangan usaha.
+- Memungkinkan pengembang aplikasi untuk melakukan _the evolving application_ -- aplikasi yang terus diperbarui teknologinya (up to date), menambah fitur-fitur baru seiring waktu -- secara berkala dengan lebih efektif dus efisien.
 - Mengurangi biaya, seperti tidak diperlukan pembelian server serta perawatannya.
-- Memungkinkan pengembang aplikasi untuk melakukan maintentance serta memberikan service secara efektif dan efisien.
-- Menciptakan _the evolving application_ (aplikasi yang terus diperbarui teknologinya seiring waktu serta menambah fitur-fitur baru).
+- Efisiensi waktu untuk mengatasi manakala terjadi _error_ pada sistem serta merealisasikan keluhan dan/atau permintaan karena dapat dilakukan secara _online dan remotely_ oleh developer kami.
