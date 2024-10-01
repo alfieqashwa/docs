@@ -3,51 +3,56 @@ title: Pages
 description: Pages explanation.
 ---
 
-Berikut penjelasan singkat laman yang terdapat pada [Qozy Cue](https://qozycue.com):
+Berikut penjelasan singkat laman yang terdapat pada apliksi [Qozy Cue](https://qozycue.com):
 
-## Dashboard Page (for Owner):
+## Dashboard
 
-1. Explain all Revenue, Profit, Total Transaction
-2. Download transactions by specific date range
-3. Display Charts (Pie & Bar)
+1. Informasi Total pendapatan, profit, transaksi Rental Pool dan F&B (Food & Beverage)
+2. Download transaksi berdasarkan rentang tanggal atau date range
+3. Tampilan Grafis Charts (Pie & Bar):
+   - Total durasi dan jumlah transaksi masing-masing pool
+   - Total transaksi berdasarkan _payment method_ (cash, debit, credit)
+   - Total penjualan 10 F&B teratas
 
-## Tables Page (for Cashier):
+## Tables
 
-1. Customer sewa loss (rate: minute)
-2. Customer sewa per jam (rate: hourly)
+1. Customer sewa loss/open-table (rate: per menit)
+2. Customer sewa per jam (rate: per jam)
 3. Order Menu & Detail Button
-4. Transfer Table
-5. Customer stop loss (rate: minute)
-6. Automatically Stop (rate: hourly)
-7. Make a payment (disc, tax, cash | debit | credit) & Printed
-8. Pending Payment and use-case explanation
+4. Manual Stop Button
+5. Automatically Stop (rate: hourly)
+6. Make a payment (disc, tax, cash | debit | credit) & Printed
+7. Transfer Pool Table (Pindah meja)
+8. Pending Payment
 9. Booking & Waiting List
-10. Cafe-Only feature
+10. Cafe-Only feature (transaksi F&B khusus customer yang tidak bermain billiard)
 
-## Transactions Page (for Cashier):
+## Transactions
+
+1. List table Order, Rental, dan F&B
+2. Sorting, Filtering, and Searching Data
+3. Edit dan Delete (Send to Archives Page)
+
+## Archives
 
 1. Sorting, Filtering, and Searching Data
-2. Dropdown Button feature explanation
-3. Send order -> Archived Page
+2. Rollback Button (Send back Archived-order -> Transaction Page)
+3. Delete archived-order permanently
 
-## Archives Page (for Manager):
+4. Konfigurasi F&B Products (membuat, menyunting, menambah, dan menghapus)
+5. Sorting, Filtering, and Searching Products
+6. Konfigurasi Packets (membuat, menyunting, menambah, dan menghapus)
+7. Sorting, Filtering, and Searching Packets
 
-1. Sorting, Filtering, and Searching Data
-2. Dropdown Button explanation
-3. Send back archived-order -> Transaction Page
-4. Delete archived-order permanently
+## Settings
 
-## Products Page (for Manager):
+1. Konfigurasi Pool Tables, UoM, Discounts, dan Taxes
+2. Masing-masing Tab memiliki konfigurasi untuk membuat, menyunting, dan menghapus data
 
-1. Products (CRUD & Activated) -> explain the restricted salePrice must be greater than costPrice
-2. Sorting, Filtering, and Searching Products
-3. Packets (CRUD & Activated)
-4. Sorting, Filtering, and Searching Packets
+## Profile
 
-## Settings Page (for Admin):
+1. Konfigurasi User Profile and Company/Tenant
 
-1. Pool Tables, UoM, Discounts, Taxes, Configuration
+---
 
-## Profile Page (for All):
-
-1. User Profile and Company/Tenant Configuration
+_**Penjelasan lebih detil pada video tutorial**_
