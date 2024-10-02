@@ -37,11 +37,11 @@ Transaksi dapat terdiri dari pemesanan F&B -- baik digabung dengan Pool Rental (
 
 ---
 
-2. Fitur **Transfer Table** dimana customer dapat berpindah meja bika diperlukan.
+2. Fitur **Transfer Table** dimana customer dapat berpindah meja bila diperlukan.
 
 ---
 
-3. Fitur **Pending Payment** dimana meja dapat digunakan kembali oleh customer baru meskipun customer lama yang telah selesai bermain belum melakukan pembayaran atau masih memesan makanan atau minuman baru.
+3. Fitur **Pending Payment** dimana meja dapat digunakan kembali oleh customer baru meskipun customer lama yang telah selesai bermain belum melakukan _payment_ atau customer masih memesan makanan atau minuman baru.
 
 ---
 
