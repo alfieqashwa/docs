@@ -49,13 +49,13 @@ Transaksi dapat terdiri dari pemesanan F&B -- baik digabung dengan Pool Rental (
 
 - Calon customer dapat melakukan pemesanan di awal dengan chat via whatsapp atau telepon langsung.
 - Setelah customer melakukan pelunasan, maka cashier segera mencatat waktu mulai (start-time) serta durasi lamanya penyewaan.
-- Hanya terdapat tarif _Packet Per Jam/Hourly_ saja. Packet Loss/Open tidak dimungkinkan dapat dilakukan pada Booking.
+- Hanya terdapat tarif _Packet Per Jam/Hourly_ saja, sedangkan Packet Loss/Open tidak dimungkinkan dilakukan.
 - Nama customer serta nomor telepon wajib diisi, digunakan sebagai validasi pelanggan pada saat telah berada di lokasi.
 - Scheduling akan dijalankan oleh system secara otomatis.
 - Booking dapat dilakukan berkali-kali dalam satu hari selama memungkinkan waktunya.
-- Booking dapat pula dilakukan untuk beda hari.
-- Jeda/gap antar masing-masing scheduling berdurasi minimal 5 menit dan maksimal 15 menit.
-- Jeda/gap waktu secara default adalah 10 menit dan dapat disetting.
+- Booking dapat pula dilakukan untuk besok, lusa, dan seterusnya.
+- Gap antar masing-masing scheduling memiliki selisih dengan jarak-waktu minimal 5 menit dan maksimal 15 menit.
+- Secara default Gap/jarak-waktu adalah 10 menit dan dapat disetting oleh user.
 
 ### Tutorial
 
