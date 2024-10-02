@@ -3,9 +3,9 @@ title: About
 description: What is Qozy Cue.
 ---
 
-[Qozy Cue](https://qozycue.com/) adalah aplikasi berbasis online khusus untuk membantu para pengusaha billiard memantau aktifitas bisnisnya secara **real-time** -- dimanapun mereka berada.
+[Qozy Cue](https://qozycue.com/) adalah aplikasi berbasis online yang diciptakan khusus untuk membantu para pengusaha billiard memantau aktifitas bisnisnya secara **real-time** -- dimanapun mereka berada.
 
-Tujuan pengembangan aplikasi ini untuk memberikan solusi alternatif yang hanya dapat dipenuhi oleh aplikasi teknologi berbasis online.
+Tujuan pengembangan aplikasi ini untuk memberikan solusi alternatif bagi para pelaku bisnis billiard yang hanya dapat dipenuhi oleh aplikasi teknologi berbasis online.
 
 ### Tujuan
 
