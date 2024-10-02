@@ -3,6 +3,10 @@ title: Authorization
 description: Authorization explanation.
 ---
 
+Signed-in hanya dapat dilakukan oleh pemilik akun gmail karena kami mengandalkan protokol [Google OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc6749) untuk autentikasi - yang bukan hanya aman bagi sistem kami, namun juga bagi para pengguna.
+
+**So, we eliminate the need to store any passwords.\_**
+
 Berikut adalah pemaparan teknis perihal otorisasi **user** atau pengguna:
 
 ### Owner
@@ -28,5 +32,3 @@ Berikut adalah pemaparan teknis perihal otorisasi **user** atau pengguna:
 - Fungsi utama adalah maintenance fitur-fitur
 - Dapat melihat seluruh laman untuk memantau seluruh aktifitas dan data
 - Memiliki akses semua fitur-fitur dan melakukan konfigurasi teknis
-
-_**Hanya dapat menggunakan gmail**_
