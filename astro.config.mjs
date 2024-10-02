@@ -19,6 +19,7 @@ export default defineConfig({
             { label: "Pages", slug: "guides/pages" },
             { label: "Authorization", slug: "guides/authorization" },
             { label: "Devices", slug: "guides/devices" },
+            { label: "Subscriptions", slug: "guides/subscriptions" },
           ],
         },
         // {
