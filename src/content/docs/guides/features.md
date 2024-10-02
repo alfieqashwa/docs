@@ -19,7 +19,7 @@ Transaksi dapat terdiri dari pemesanan F&B -- baik digabung dengan Pool Rental (
 
 ### Pool Rental
 
-1. Sewa meja terdiri dari dua pilihan:
+1. Sewa meja terdiri dari dua _packets_:
 
    1. Loss (Open) / menit:
 
