@@ -11,7 +11,7 @@ Aplikasi [Qozy Cue](https://qozycue.com) terdiri dari tiga fitur utama yang akan
 
 ### Point of Sale (PoS)
 
-PoS (selanjutnya kami tulis dengan _Pengkasiran_) memproses transaksi dengan pihak customer dari pemesanan hingga closing.
+PoS atau _Pengkasiran_ memproses transaksi dengan pihak customer dari pemesanan hingga closing.
 
 Fitur ini memungkinkan user (as cashier) untuk mencatat nama dan contact customer, melakukan pemesanan, mencetak pemesanan, menambahkan catatan jika diperlukan, mencetak bill, melakukan pembayaran (cash, debit, credit), dan mencetak receipt.
 
