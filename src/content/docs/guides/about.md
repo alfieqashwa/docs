@@ -7,7 +7,7 @@ description: What is Qozy Cue.
 
 Tujuan pengembangan aplikasi ini untuk memberikan solusi alternatif yang hanya dapat dipenuhi oleh aplikasi teknologi berbasis online.
 
-## Tujuan
+### Tujuan
 
 Beberapa tujuan utama [Qozy Cue](https://qozycue.com/):
 

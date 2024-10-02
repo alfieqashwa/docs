@@ -5,25 +5,25 @@ description: Authorization explanation.
 
 Berikut adalah pemaparan teknis perihal otorisasi **user** atau pengguna:
 
-## Owner
+### Owner
 
 - Dapat melihat seluruh laman untuk memantau seluruh aktifitas dan data
 - Tidak dapat melakukan transaksi, membuat, menyunting, atau menghapus data apapun
 - Hanya _Owner & Admin_ yang dapat mengakses laman **Dashboard**
 
-## Cashier:
+### Cashier:
 
 - Otoritas utama melakukan transaksi _pool rental_ dan pemesanan F&B pada laman **Tables** termasuk transfer meja, booking, dan eksekusi pembayaran
 - Tidak dapat akses ke laman **Dashboard**
 - Tidak dapat konfigurasi _Products_ F&B dan _Packets_ (membuat, menyunting, atau menghapus)
 
-## Manager:
+### Manager:
 
 - Otoritas utama mengkonfigurasi _Products_ F&B dan _Packets_ (membuat, menyunting, atau menghapus)
 - Tidak dapat melakukan transaksi, kecuali beberapa fitur
 - Tidak dapat mengakses laman **Dashboard**
 
-## Admin:
+### Admin:
 
 - Fungsi utama adalah maintenance fitur-fitur
 - Dapat melihat seluruh laman untuk memantau seluruh aktifitas dan data

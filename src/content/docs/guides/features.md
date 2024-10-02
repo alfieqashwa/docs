@@ -3,6 +3,60 @@ title: Features
 description: Features explanation.
 ---
 
-## Fitur-fitur
+Aplikasi [Qozy Cue](https://qozycue.com) terdiri dari tiga fitur utama yang akan dipaparkan lebih lanjut via video:
 
-- Make a yt video tutorial and add the link here.
+1. **Point of Sale (PoS)**
+2. **Pool Rental**
+3. **Booking & Scheduling**
+
+### Point of Sale (PoS)
+
+PoS (selanjutnya kami tulis dengan _Pengkasiran_) memproses transaksi dengan pihak customer dari pemesanan hingga closing.
+
+Fitur ini memungkinkan user (as cashier) untuk mencatat nama dan contact customer, melakukan pemesanan, mencetak pemesanan, menambahkan catatan jika diperlukan, mencetak bill, melakukan pembayaran (cash, debit, credit), dan mencetak receipt.
+
+Transaksi dapat terdiri dari pemesanan F&B -- baik digabung dengan Pool Rental (sewa meja billiard) atau tidak.
+
+### Pool Rental
+
+1. Sewa meja terdiri dari dua pilihan:
+
+   1. Loss (Open) / menit:
+
+      - Tidak ditentukan kapan waktu selesai bermain di awal penyewaan.
+      - Batas maksimal penyewaan 6 jam.
+      - Rate / tarif di hitung per menit.
+      - Jika bermain kurang dari satu jam, maka tarif di hitung dengan rate per menit x 60 menit.
+      - Meja tidak dapat di booking.
+
+   2. Packet (Hourly) / jam:
+      - Waktu selesai bermain ditentukan di awal penyewaan.
+      - Batas maksimal penyewaan 6 jam.
+      - Rate / tarif di hitung per jam.
+      - Meja dapat di booking dan di scheduling (di atur jadwalnya).
+
+---
+
+2. Fitur **Transfer Table** dimana customer dapat berpindah meja bika diperlukan.
+
+---
+
+3. Fitur **Pending Payment** dimana meja dapat digunakan kembali oleh customer baru meskipun customer lama yang telah selesai bermain belum melakukan pembayaran atau masih memesan makanan atau minuman baru.
+
+---
+
+### Booking & Scheduling
+
+- Calon customer dapat melakukan pemesanan di awal dengan chat via whatsapp atau telepon langsung.
+- Setelah customer melakukan pelunasan, maka cashier segera mencatat waktu mulai (start-time) serta durasi lamanya penyewaan.
+- Hanya terdapat tarif _Packet Per Jam/Hourly_ saja. Packet Loss/Open tidak dimungkinkan dapat dilakukan pada Booking.
+- Nama customer serta nomor telepon wajib diisi, digunakan sebagai validasi pelanggan pada saat telah berada di lokasi.
+- Scheduling akan dijalankan oleh system secara otomatis.
+- Booking dapat dilakukan berkali-kali dalam satu hari selama memungkinkan waktunya.
+- Booking dapat pula dilakukan untuk beda hari.
+- Jeda/gap antar masing-masing scheduling berdurasi minimal 5 menit dan maksimal 15 menit.
+- Jeda/gap waktu secara default adalah 10 menit dan dapat disetting.
+
+### Tutorial
+
+**_TODO: add the link of YT vids here !!_**
