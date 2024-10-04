@@ -55,7 +55,8 @@ Transaksi dapat terdiri dari pemesanan F&B -- baik digabung dengan Pool Rental (
 - Booking dapat dilakukan berkali-kali dalam satu hari selama memungkinkan waktunya.
 - Booking dapat pula dilakukan untuk besok, lusa, dan seterusnya.
 - Gap antar masing-masing scheduling memiliki selisih dengan jarak-waktu minimal 5 menit dan maksimal 15 menit.
-- Secara default Gap/jarak-waktu adalah 10 menit dan dapat disetting oleh user.
+- Secara default jarak-waktu (gap) antar booking schedule adalah selisih 10 menit.
+- Selisih jarak-waktu (gap) dapat disetting oleh user/pengguna (cashier).
 
 ### Tutorial
 

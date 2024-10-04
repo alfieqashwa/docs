@@ -15,11 +15,11 @@ Pada saat ini, terdiri dari 4 (empat) subscriptions.
 
 ### Basic
 
-- Go to [Home Page](https://qozycue.com) pada **Section Pricing Plan**
+- Go to [Home Page](https://qozycue.com) di section **Pricing Plan**
 
 ### Pro
 
-- Go to [Home Page](https://qozycue.com) pada **Section Pricing Plan**
+- Go to [Home Page](https://qozycue.com) di section **Pricing Plan**
 
 ### Enterprise
 
@@ -27,5 +27,4 @@ Hanya untuk para pelaku bisnis yang:
 
 - Memiliki jumlah Pool Table lebih dari 40 meja.
 - Memiliki bisnis lebih dari satu tenant atau cabang (franchise).
-- Memilih skema pembayaran satu kali saja / beli putus alih-alih berlangganan.
-- Tertarik menjadi investor dan turut berkontribusi dalam mengembangkan startup ini.
+- Memilih skema pembayaran satu kali selamanya.
