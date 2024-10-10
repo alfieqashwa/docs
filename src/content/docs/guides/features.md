@@ -41,7 +41,7 @@ Transaksi dapat terdiri dari pemesanan F&B -- baik digabung dengan Pool Rental (
 
 ---
 
-3. Fitur **Pending Payment** dimana meja dapat digunakan kembali oleh customer baru meskipun customer lama yang telah selesai bermain belum melakukan _payment_ atau customer masih memesan makanan atau minuman baru.
+3. Fitur **Pending Payment** dimana meja dapat digunakan kembali oleh customer baru meskipun customer sebelumnya yang telah selesai bermain belum melakukan _payment_ atau customer masih memesan makanan atau minuman baru.
 
 ---
 
