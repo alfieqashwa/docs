@@ -8,14 +8,19 @@
 
 ---
 
-Kenapa susah menemukan aplikasi online \\ yang khusus \\ untuk para pelaku usaha billiard?
-Kenapa di tahun 2024 ini, software-software \\ masih offline semua?
-Dan kenapa semua design tampilannya, seakan-akan kita masih hidup di tahun 2000-an?
+Sulit menemukan aplikasi khusus billiard yang berbasis online.
+Bahkan di tahun 2024 ini, yang saya temukan adalah sekumpulan software offline dengan desain dan tampilan, \\
+dimana seakan-akan saya masih hidup di era 2000-an.
 
-Pertanyaan-pertanyaan itu yang terbesit dalam hati \\ ketika gw melakukan riset di internet.
+Mendapati fakta-fakta tersebut \\
+akhirnya saya membuat aplikasi berbasis online \\
+untuk membantu para pelaku usaha bisnis billiard, \\
+agar mereka dapat memantau aktifitas bisnisnya, dimanapun mereka berada,
+secara real-time.
 
-Hal tersebut yang menjadi alasan utama gw memutuskan untuk membuat sebuah aplikasi berbasis online \\ khusus untuk para pelaku usaha bisnis billiard.
-
-Sodare-sodare... izinkan saya mempresentasikan \\ Qozy \\ Cue.
+Hi, my name is Alfie Qashwa.
+Izinkan saya mempresentasikan, \\ Qozy \\ Cue.
 
 ---
+
+Jika scroll ke bawah, dan klik button "Documentation", dijelaskan secara detil

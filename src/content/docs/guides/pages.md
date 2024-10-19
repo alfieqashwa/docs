@@ -5,7 +5,7 @@ description: Pages explanation.
 
 Berikut penjelasan singkat laman yang terdapat pada apliksi [Qozy Cue](https://qozycue.com):
 
-## Dashboard
+### Dashboard
 
 1. Informasi Total pendapatan, profit, transaksi Rental Pool dan F&B (Food & Beverage)
 2. Download transaksi berdasarkan rentang tanggal atau date range
@@ -14,7 +14,7 @@ Berikut penjelasan singkat laman yang terdapat pada apliksi [Qozy Cue](https://q
    - Total transaksi berdasarkan _payment method_ (cash, debit, credit)
    - Total penjualan 10 F&B teratas
 
-## Tables
+### Tables
 
 1. Customer sewa loss/open-table (rate: per menit)
 2. Customer sewa per jam (rate: per jam)
@@ -27,13 +27,13 @@ Berikut penjelasan singkat laman yang terdapat pada apliksi [Qozy Cue](https://q
 9. Booking & Waiting List
 10. Cafe-Only feature (transaksi F&B khusus customer yang tidak bermain billiard)
 
-## Transactions
+### Transactions
 
 1. List table Order, Rental, dan F&B
 2. Sorting, Filtering, and Searching Data
 3. Edit dan Delete (Send to Archives Page)
 
-## Archives
+### Archives
 
 1. Sorting, Filtering, and Searching Data
 2. Rollback Button (Send back Archived-order -> Transaction Page)
@@ -44,12 +44,12 @@ Berikut penjelasan singkat laman yang terdapat pada apliksi [Qozy Cue](https://q
 6. Konfigurasi Packets (membuat, menyunting, menambah, dan menghapus)
 7. Sorting, Filtering, and Searching Packets
 
-## Settings
+### Settings
 
 1. Konfigurasi Pool Tables, UoM, Discounts, dan Taxes
 2. Masing-masing Tab memiliki konfigurasi untuk membuat, menyunting, dan menghapus data
 
-## Profile
+### Profile
 
 1. Konfigurasi User Profile and Company/Tenant
 
