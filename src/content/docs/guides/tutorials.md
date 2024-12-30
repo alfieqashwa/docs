@@ -5,16 +5,16 @@ description: Tutorials explanation.
 
 ### Mencoba Aplikasi Qozy Cue
 
-Untuk mencoba aplikasi ini **`secara gratis`**, secara singkat beberapa tahap registrasi dipaparkan berikut ini:
+Untuk mencoba **`secara gratis`**, secara singkat beberapa tahap registrasi dipaparkan berikut ini:
 
 #### Sign-In via Google
 
-Buka link [Qozy Cue](https://qozycue.com), lali klik tombol **Sign In**, lalu setelah mengikuti proses autentifikasi dari **`Google OAuth 2.0`**, Anda akan diarahkan ke laman **`/portal`**.
+Buka link [Qozy Cue](https://qozycue.com), klik tombol **Sign In**, lalu setelah mengikuti proses autentifikasi dari **`Google OAuth 2.0`**, Anda akan diarahkan ke laman **`/portal`**.
 
-Tekan tombol **`TRIAL`**, dan silakan mengisi nama usaha Billiard Anda di form yang muncul.
+Tekan tombol **`TRIAL`**, maka akan muncul dialog form registrasi. Silakan isi nama usaha billiard Anda.
 
-Selanjutnya, proses dijelaskan secara detail pada video tutorial.
+Proses secara detail dijelaskan pada video tutorial.
 
-### Videos
+### Video Tutorial
 
-**_TODO: add the link of YT vids here !!_**
+**_WIP: add the link of YT vids here !!_**

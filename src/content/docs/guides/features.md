@@ -15,44 +15,48 @@ PoS atau _Pengkasiran_ memproses transaksi dengan pihak customer dari pemesanan 
 
 Fitur ini memungkinkan user (as cashier) untuk mencatat nama dan contact customer, melakukan pemesanan, mencetak pemesanan, menambahkan catatan jika diperlukan, mencetak bill, melakukan pembayaran (cash, debit, credit), dan mencetak receipt.
 
-Transaksi dapat terdiri dari pemesanan F&B -- baik digabung dengan Pool Rental (sewa meja billiard) atau tidak.
+Transaksi dapat terdiri dari pemesanan F&B (_Food & Beverage_) -- baik digabung dengan Pool Rental (sewa meja billiard) atau tidak.
 
 ### Pool Rental
 
-1. Sewa meja terdiri dari dua _packets_:
+1. Sewa meja terdiri dari dua _packets_ berdasarkan _rate_:
 
    1. Loss (Open) / menit:
 
-      - Tidak ditentukan kapan waktu selesai bermain di awal penyewaan.
-      - Batas maksimal penyewaan 6 jam.
-      - Rate / tarif di hitung per menit.
-      - Jika bermain kurang dari satu jam, maka tarif di hitung dengan rate per menit x 60 menit.
-      - Meja tidak dapat di booking.
+      - _Customer_ tidak menentukan kapan waktu selesai bermain di awal penyewaan.
+      - Batas maksimal 6 jam (_automatically_).
+      - Rate / tarif di hitung dalam durasi menit.
+      - Jika bermain kurang dari satu jam, maka tarif di hitung dengan rate total menit x 60 menit.
+      - Meja/Table tidak dapat di booking selama penyewaan.
 
    2. Packet (Hourly) / jam:
       - Waktu selesai bermain ditentukan di awal penyewaan.
-      - Batas maksimal penyewaan 6 jam.
-      - Rate / tarif di hitung per jam.
-      - Meja dapat di booking dan di scheduling (di atur jadwalnya).
+      - Batas maksimal penyewaan 6 jam (_automatically_).
+      - Rate / tarif di hitung dalam durasi jam.
+      - Meja/Table dapat di booking dan di _schedule_ (di atur jadwalnya).
 
 ---
 
-2. Fitur **Transfer Table** dimana customer dapat berpindah meja bila diperlukan.
+2. Fitur **Transfer Table** dimana _customer_ dapat berpindah _table_ bila diperlukan.
 
 ---
 
-3. Fitur **Pending Payment** dimana meja dapat digunakan kembali oleh customer baru meskipun customer sebelumnya yang telah selesai bermain belum melakukan _payment_ atau customer masih memesan makanan atau minuman baru.
+3. Fitur **Tambah Durasi** dimana _customer_ dapat menambah durasi penyewaan (hanya berlaku pada _Packet Hourly_)
+
+---
+
+4. Fitur **Pending Payment** dimana _table_ dapat digunakan kembali oleh _customer_ baru meskipun _customer_ sebelumnya yang telah selesai bermain belum melakukan _payment_, atau _customer_ masih ingin memesan makanan atau minuman.
 
 ---
 
 ### Booking & Scheduling
 
-- Calon customer dapat melakukan pemesanan di awal dengan chat via whatsapp atau telepon langsung.
-- Setelah customer melakukan pelunasan, maka cashier segera mencatat waktu mulai (start-time) serta durasi lamanya penyewaan.
+- Calon _customer_ dapat melakukan pemesanan di awal dengan chat _via whatsapp_ atau telepon langsung.
+- Setelah _customer_ melakukan pelunasan, maka _cashier_ segera mencatat waktu mulai (_start-time_) serta durasi lamanya penyewaan.
 - Hanya terdapat tarif _Packet Per Jam/Hourly_ saja, sedangkan Packet Loss/Open tidak dimungkinkan dilakukan.
-- Nama customer serta nomor telepon wajib diisi, digunakan sebagai validasi pelanggan pada saat telah berada di lokasi.
-- Scheduling akan dijalankan oleh system secara otomatis.
-- Booking dapat dilakukan berkali-kali dalam satu hari.
-- Gap antar masing-masing scheduling memiliki selisih dengan jarak-waktu minimal 5 menit dan maksimal 15 menit.
-- Secara default jarak-waktu (gap) antar booking schedule adalah selisih 10 menit.
-- Selisih jarak-waktu (gap) dapat disetting oleh user/pengguna (cashier).
+- Nama _customer_ serta nomor telepon wajib diisi, digunakan sebagai validasi pelanggan pada saat telah berada di lokasi.
+- _Scheduling_ akan dijalankan oleh sistem secara otomatis.
+- _Booking_ dapat dilakukan berkali-kali dalam satu hari.
+- Masing-masing _scheduling_ memiliki selisih dengan jarak-waktu minimal 5 menit dan maksimal 15 menit.
+- Selisih jarak-waktu (_gap-time_) dapat disetting oleh user/pengguna (cashier).
+- Secara _default_ selisih jarak-waktu (_gap-time_) adalah 10 menit.
