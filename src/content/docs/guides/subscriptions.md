@@ -29,7 +29,7 @@ Pada saat ini, terdiri dari 4 (empat) subscriptions.
 - Pool Table maksimal 40.
 - Product maksimal 100.
 - Packet maksimal 20.
-- User maksimal 10.
+- User maksimal 15.
 - Go to [Home Page](https://qozycue.com) di section **Pricing Plan**
 
 ### Enterprise

@@ -11,7 +11,7 @@ Untuk mencoba **`secara gratis`**, secara singkat beberapa tahap registrasi dipa
 
 Buka link [Qozy Cue](https://qozycue.com), klik tombol **Sign In**, lalu setelah mengikuti proses autentifikasi dari **`Google OAuth 2.0`**, Anda akan diarahkan ke laman **`/portal`**.
 
-Tekan tombol **`TRIAL`**, maka akan muncul dialog form registrasi. Silakan isi nama usaha billiard Anda.
+Silakan isi nama usaha billiard Anda di Form Registrasi.
 
 Proses secara detail dijelaskan pada video tutorial.
 
