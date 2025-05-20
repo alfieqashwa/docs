@@ -25,8 +25,8 @@ Transaksi dapat terdiri dari pemesanan F&B (_Food & Beverage_) -- baik digabung 
 
       - _Customer_ tidak menentukan kapan waktu selesai bermain di awal penyewaan.
       - Batas maksimal 6 jam (_automatically_).
-      - Rate / tarif di hitung dalam durasi menit.
-      - Jika bermain kurang dari satu jam, maka tarif di hitung dengan rate total menit x 60 menit.
+      - Rate / tarif di hitung dalam durasi menit secara default.
+      - Client dapat request fitur `Custom Loss Minute`, yakni jika customer bermain kurang dari satu jam, tarif di hitung dengan rate total/hr -> menit x 60 menit.
       - Meja/Table tidak dapat di booking selama penyewaan.
 
    2. Packet (Hourly) / jam:
